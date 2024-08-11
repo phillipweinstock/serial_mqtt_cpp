@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723276417 source:/home/pi/serial_mqtt_cpp/main.cpp
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<cstring>
+	<mqtt/async_client.h>
+
